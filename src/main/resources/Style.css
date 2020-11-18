@@ -1,0 +1,50 @@
+#combo{
+    -fx-min-width: 250;
+}
+#stationButtons{
+   -fx-min-width: 250;
+   -fx-min-height:70;
+}
+#addToQueue{
+    -fx-min-width: 250;
+    -fx-min-height:70;
+}
+#checkInButtons{
+    -fx-min-width: 250;
+}
+#closeCheckIn{
+    -fx-min-width: 250;
+    -fx-min-height:70;
+}
+#waitingButtons{
+    -fx-min-width: 80;
+    -fx-min-height: 50;
+    -fx-max-width: 80;
+    -fx-max-height: 50;
+}
+#seatButtons{
+    -fx-max-width: 100;
+    -fx-max-height: 100;
+}
+#closeViewButton{
+    -fx-min-width: 250;
+    -fx-min-height:70;
+}
+#closeRun{
+    -fx-min-width: 250;
+    -fx-min-height:70;
+}
+#closeAdd{
+   -fx-min-width: 250;
+   -fx-min-height:70;
+}
+#closeExit{
+    -fx-min-width: 250;
+    -fx-min-height:70;
+}
+#queueButtons{
+    -fx-min-width: 240;
+    -fx-min-height: 50;
+    -fx-max-width: 240;
+    -fx-max-height: 50;
+}
